@@ -36,23 +36,23 @@ We will use the JavaScript and the D3.js library to retrieve the coordinates and
 
 #### Earthquakes with Faultlines - Street Layer
 
-![Streets_Earthquakes](street_earthquakes.png)
-![Streets_MajorEarthquakes](street_major_earthquakes.png)
+![Streets_Earthquakes](images/street_earthquakes.png)
+![Streets_MajorEarthquakes](images/street_major_earthquakes.png)
 
 #### Earthquakes with Faultlines- Satellite Layer
 
-![Satellite_Earthquakes](satellite_earthquakes.png)
-![Satellite_MajorEarthquakes](satellite_major_earthquakes.png)
+![Satellite_Earthquakes](images/satellite_earthquakes.png)
+![Satellite_MajorEarthquakes](images/satellite_major_earthquakes.png)
 
 
 
 #### Earthquakes with Faultlines - Dark Layer
 
-![Dark_Earthquakes](dark_earthquakes.png)
-![Dark_MajorEarthquakes](dark_major_earthquakes.png)
+![Dark_Earthquakes](images/dark_earthquakes.png)
+![Dark_MajorEarthquakes](images/dark_major_earthquakes.png)
 
 
 
 #### All Earthquakes with Faultlines - Satellite Layer
 
-![Satelitte_AllEarthquakes](satellite_all.png)
+![Satelitte_AllEarthquakes](images/satellite_all.png)
